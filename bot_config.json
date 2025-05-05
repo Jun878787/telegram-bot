@@ -1,0 +1,15 @@
+{
+  "deposit_rate": 33.3,
+  "withdrawal_rate": 33.25,
+  "operators": [],
+  "transactions": [
+    {
+      "amount": 10000.0,
+      "type": "deposit",
+      "date": "2025-04-29",
+      "time": "15:23:49",
+      "processed": false
+    }
+  ],
+  "processed_amount": 0.0
+}

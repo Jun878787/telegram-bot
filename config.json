@@ -1,0 +1,188 @@
+{
+  "deposits": [
+    {
+      "time": "22:48",
+      "amount": 1000000.0
+    },
+    {
+      "time": "22:48",
+      "amount": 2450000.0
+    },
+    {
+      "time": "17:23",
+      "amount": 5000.0
+    },
+    {
+      "time": "17:59",
+      "amount": 5000.0,
+      "currency": "TWD",
+      "username": "Fanny_Orz",
+      "user_id": 7842840472
+    },
+    {
+      "time": "18:09",
+      "amount": 7000000.0,
+      "currency": "TWD",
+      "username": "Fanny_Orz",
+      "user_id": 7842840472
+    },
+    {
+      "time": "18:31",
+      "amount": 900000.0,
+      "currency": "CNY",
+      "username": "Fanny_Orz",
+      "user_id": 7842840472
+    },
+    {
+      "time": "18:34",
+      "amount": 50000.0,
+      "currency": "TWD",
+      "username": "Fanny_Orz",
+      "user_id": 7842840472,
+      "date": "05/04"
+    },
+    {
+      "time": "18:53",
+      "amount": 50000.0,
+      "currency": "TWD",
+      "username": null,
+      "user_id": null,
+      "date": null
+    },
+    {
+      "time": "18:57",
+      "amount": 500000.0,
+      "currency": "TWD",
+      "username": "Fanny_Orz",
+      "user_id": 7842840472,
+      "date": "05/04"
+    },
+    {
+      "time": "19:02",
+      "amount": 100000.0,
+      "currency": "TWD",
+      "username": "Fanny_Orz",
+      "user_id": 7842840472,
+      "date": "05/04"
+    },
+    {
+      "time": "21:10",
+      "amount": 2000000.0,
+      "currency": "TWD",
+      "username": "ysdghjqefd",
+      "user_id": 7915318228,
+      "date": "05/01"
+    },
+    {
+      "time": "21:12",
+      "amount": 500000.0,
+      "currency": "TWD",
+      "username": "ysdghjqefd",
+      "user_id": 7915318228,
+      "date": "05/02"
+    },
+    {
+      "time": "21:13",
+      "amount": 1080000.0,
+      "currency": "TWD",
+      "username": "ysdghjqefd",
+      "user_id": 7915318228,
+      "date": "05/03"
+    },
+    {
+      "time": "21:25",
+      "amount": 0.0,
+      "currency": "TWD",
+      "username": "bxu8120",
+      "user_id": 8018614434,
+      "date": "05/01"
+    },
+    {
+      "time": "21:28",
+      "amount": 325.0,
+      "currency": "TWD",
+      "username": "qaz521888",
+      "user_id": 8082332334,
+      "date": "05/01"
+    },
+    {
+      "time": "21:39",
+      "amount": 4226000.0,
+      "currency": "TWD",
+      "username": "qaz521888",
+      "user_id": 8082332334,
+      "date": "05/01"
+    },
+    {
+      "time": "15:21",
+      "amount": 350000.0,
+      "currency": "TWD",
+      "username": "Fanny_Orz",
+      "user_id": 7842840472,
+      "date": "05/01"
+    },
+    {
+      "time": "15:22",
+      "amount": 3726000.0,
+      "currency": "TWD",
+      "username": "Fanny_Orz",
+      "user_id": 7842840472,
+      "date": "05/02"
+    },
+    {
+      "time": "15:29",
+      "amount": 0.0,
+      "currency": "TWD",
+      "username": "qaz521888",
+      "user_id": 8082332334,
+      "date": "05/05"
+    }
+  ],
+  "withdrawals": [
+    {
+      "time": "22:48",
+      "amount": -3450000.0
+    }
+  ],
+  "operators": [],
+  "rates": {
+    "deposit": 33.25,
+    "withdrawal": 33.25
+  },
+  "broadcast_mode": false,
+  "welcome_message": "{FULLNAME}　👀他要跑去哪裡 ？不問一下嗎",
+  "farewell_enabled": true,
+  "farewell_message": "👋 {SURNAME} 已離開群組，期待再相會！",
+  "warnings": {},
+  "welcome_message_enabled": true,
+  "farewell_message_enabled": true,
+  "scheduled_messages": {
+    "enabled": true,
+    "messages": {
+      "1": {
+        "message": "",
+        "interval": 3600,
+        "repeat_count": 0,
+        "weekdays": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "time_ranges": [
+          [
+            "00:00",
+            "23:59"
+          ]
+        ],
+        "pin": true,
+        "last_sent": null,
+        "enabled": false
+      }
+    }
+  },
+  "scheduled_message_enabled": true
+}
